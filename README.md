@@ -1,4 +1,3 @@
-```markdown
 # CiteFlow Protocol Specification v0.1 — README
 
 This file is the **canonical README for the CiteFlow Protocol Specification v0.1**, maintained under `spec/citeflow-protocol-v0.1.md` and other future **public specification documents** (e.g., `spec/citeflow-protocol-v0.2.md`, `spec/citeflow-policy-schema.md`, etc.).
@@ -192,4 +191,3 @@ This README exists **inside the `spec/` directory** so that every future spec fi
 - where to find non‑spec documentation.
 
 You may safely copy and adapt this file into new `spec/*.md` READMEs, as long as you keep it focused on **the specification documents**, not the whole project.
-```
